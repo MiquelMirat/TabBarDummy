@@ -14,6 +14,7 @@
 		37B2396521E523170006E8D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37B2396321E523160006E8D8 /* LaunchScreen.storyboard */; };
 		37B2397021E523170006E8D8 /* TabBarDummyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B2396F21E523170006E8D8 /* TabBarDummyTests.swift */; };
 		37B2397B21E523170006E8D8 /* TabBarDummyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B2397A21E523170006E8D8 /* TabBarDummyUITests.swift */; };
+		37B2398921E5249C0006E8D8 /* TabBarControllerCustom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B2398821E5249C0006E8D8 /* TabBarControllerCustom.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		37B2397621E523170006E8D8 /* TabBarDummyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TabBarDummyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		37B2397A21E523170006E8D8 /* TabBarDummyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarDummyUITests.swift; sourceTree = "<group>"; };
 		37B2397C21E523170006E8D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37B2398821E5249C0006E8D8 /* TabBarControllerCustom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarControllerCustom.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				37B2395A21E523140006E8D8 /* AppDelegate.swift */,
 				37B2395C21E523140006E8D8 /* ViewController.swift */,
 				37B2395E21E523140006E8D8 /* Main.storyboard */,
+				37B2398821E5249C0006E8D8 /* TabBarControllerCustom.swift */,
 				37B2396121E523160006E8D8 /* Assets.xcassets */,
 				37B2396321E523160006E8D8 /* LaunchScreen.storyboard */,
 				37B2396621E523170006E8D8 /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				37B2395D21E523140006E8D8 /* ViewController.swift in Sources */,
+				37B2398921E5249C0006E8D8 /* TabBarControllerCustom.swift in Sources */,
 				37B2395B21E523140006E8D8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
